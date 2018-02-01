@@ -1,3 +1,2 @@
 # millionaire
-一个答题类的iOS游戏App
-123-NOT master branch
+An iOS game app, which show common questions for user to answer and get score record.
